@@ -92,7 +92,6 @@ http://clansamuraijapan.blog70.fc2.com/blog-entry-14.html
 
 - [iplogger.org](https://iplogger.org/)
 - [goo.by](https://goo.by/url-shorteners/iplogger)
-- [apboc.net](https://apboc.net/photo/generator.php)
 - [opentracker.net](https://www.opentracker.net/feature/ip-tracker/)
 
 - [ipinfo.io（調べるやつ）](https://ipinfo.io)
@@ -136,19 +135,14 @@ http://clansamuraijapan.blog70.fc2.com/blog-entry-14.html
 #### サイト一覧
 <details>
 
-- [temp-numbers.xyz](https://temp-numbers.xyz)
 - [getfreesmsnumber.com](https://getfreesmsnumber.com)
 - [receivesms.cc](https://receivesms.cc)
 - [tempsmss.com](https://tempsmss.com)
 - [www.smsonline.cloud](https://www.smsonline.cloud)
-- [receivesmss.net](https://receivesmss.net)
-- [receive-sms-online.cc](https://receive-sms-online.cc)
-- [receive-sms-online.cc](https://receive-sms-online.cc)
 - [freebulksmsonline.com](https://freebulksmsonline.com)
 - [smscodeonline.com](https://smscodeonline.com)
 - [freereceivesms.com](https://www.freereceivesms.com/)
 - [yunjiema.net](https://yunjiema.net/)
-- [www.temp-mails.com](https://www.temp-mails.com)
 - [receivesmsonline.me](https://receivesmsonline.me)
 - [smsget.net](https://smsget.net)
 - [freeonlinephone.org](https://www.freeonlinephone.org/)
@@ -171,7 +165,6 @@ http://clansamuraijapan.blog70.fc2.com/blog-entry-14.html
 - [inboxsms.me](https://inboxsms.me)
 - [smsnator.online](https://smsnator.online)
 - [sms-online.co](https://sms-online.co)
-- [smsreceivefree.com](https://smsreceivefree.com)
 - [tempophone.com](https://tempophone.com)
 - [receive-sms-free.cc](https://receive-sms-free.cc)
 - [receive-sms.cc](https://receive-sms.cc)
@@ -190,8 +183,6 @@ http://clansamuraijapan.blog70.fc2.com/blog-entry-14.html
 <summary>アニメ等</summary>
 
 #### アニメ
-- [gogoanime.film](https://gogoanime.film/)
-- [anime-update.com](https://anime-update.com/)
 - [aniwave.to](https://aniwave.to/)
 - [9animetv.to](https://9animetv.to)
 
@@ -199,13 +190,7 @@ http://clansamuraijapan.blog70.fc2.com/blog-entry-14.html
 - [9tsu.vip](https://9tsu.vip/)
 
 #### 漫画
-- [mangarawjp.io](https://mangarawjp.io/)
 - [mangakakalot.to](https://mangakakalot.to/)
-- [mangagohan.com](https://mangagohan.com/)
-- [manga1000.com](https://manga1000.com/)
-- [mangahato.com](https://mangahato.com/)
-- [https://manga1001.com](https://manga1001.com/)
-- [loveheaven.net](https://loveheaven.net/)
 - [manga11.com](https://manga11.com/)
 </details>
 <details>
@@ -223,7 +208,6 @@ http://clansamuraijapan.blog70.fc2.com/blog-entry-14.html
 <summary>steam無料</summary>
 
 - [agfy.co](https://agfy.co/)
-- [steamcrackedgames.com](https://steamcrackedgames.com/)
 - [steamunlocked.net/](https://steamunlocked.net/)
 </details>
 <details>
@@ -291,24 +275,6 @@ https://www.amazon.com/Apple-MMEF2AM-AirPods-Wireless-Bluetooth/dp/B01MQWUXZS
 
 有線 - 
 https://www.amazon.com/Apple-EarPods-3-5mm-Headphone-Plug/dp/B06X16Z7DZ
-</details>
-<details>
-<summary>iphone</summary>
-
-mastercvv.ruのアカウントを作成する。
-
-または https://trump-cc.com/access/authorization
-
-1. コードはこれを使用する。"517805"
-
-2. カード所有者の名前と一致するメールを作成します。
-3. カードは毎朝7:30-9:00に更新され、すぐに売り切れます。
-4. Verizon.comに入り、Fullzを用意する。
-5. XS Max 256gb以上をカートに入れチェックアウトする
-6. Verizonはあなたからの電話を要求してきます、テキストフリー番号からの電話
-7. 完全な小売りの携帯電話を購入したいことを伝えよう
-8. 配送ラベルに記入した名前を覚えておくこと。配達員が尋ねてきます。
-9.  新しい携帯電話をお楽しみください📲。
 </details>
 <details>
 <summary>line</summary>
@@ -519,32 +485,14 @@ https://help.twitter.com/ja/forms/ipi/counterfeit/trademark-holder
 <summary>仕入れ先</summary>
 
 ```
-hulu account
-https://nightcx.atshop.io/
-hulu premium
-https://rko.atshop.io/movie-theater
-ーーーーーーーーーーーーーーーーーー
-https://personicalts.atshop.io/get-atshop
-https://nightcx.atshop.io/
 DAZN premium
 https://accountparadise.atshop.io/get-atshop
 ーーーーーーーーーーーーーーーーーー
 https://t.me/giftcards5282ytbyy7t
 ギフトカード半額
 ーーーーーーーーーーーーーーーーーー
-windows10-11プロダクトキー
-https://jim.atshop.io/
-ーーーーーーーーーーーーーーーーーー
-https://mixed.atshop.io/
-←ここのmatchesバケモン品質
-ーーーーーーーーーーーーーーーーーー
-https://zcheap.atshop.io/
-←買うだけで儲かるから覗くのアリ
-ーーーーーーーーーーーーーーーーーー
 アプリTaobao←石垢業者が良く使うやつ。ウマ4¥
-https://fanflix.atshop.io/
 ーーーーーーーーーーーーーーーーーー
-←ネットフリックス3¥ とかやすい。
 原神業者使用
 https://lolz.guru/market/fortnite/
 ーーーーーーーーーーーーーーーーーー
@@ -556,25 +504,6 @@ https://t.me/antispamsplace
 ーーーーーーーーーーーーーーーーーー
 在庫が多いのが取り柄
 https://t.me/rajnawstock
-ーーーーーーーーーーーーーーーーーー
-Twitterなどのはるか昔に作られた垢が沢山あります
-https://ogusers.com/index.php?__cf_chl_tk=znqcKSUVRTuhpFUQ3YdxOnjOBrPkiPSW0Y5j.KwUHIQ-1643809925-0-gaNycGzNCWU
-ーーーーーーーーーーーーーーーーーー
-https://stealthway.atshop.io/
-paypal クレカ　cc登録垢
-ーーーーーーーーーーーーーーーーーー
-https://sellix.io/astralcheats
-fortnite
-ーーーーーーーーーーーーーーーーーー
-マインクラフトコイン垢
-https://skyblock-coins.com/
-ーーーーーーーーーーーーーーーーーー
-https://anomaly.atshop.io/nitro-codes
-discordプロモコード 10円
-ーーーーーーーーーーーーーーーーーー
-鯖boost
-https:// cheapboosts.com/
-(消されるので 空白を消してね)
 ーーーーーーーーーーーーーーーーーー
 ネトフリ格安
 https://fanflix.atshop.io/
