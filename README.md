@@ -15,7 +15,9 @@
 <details>サーバーをブーストすると専用チャンネルを見ることができます</details>
 
 ## ProxyScraper
-<details>Releasesに掲載（u_proxy_tool_1.8.1）</details>
+<details>
+<a href="https://github.com/mizutama1233/haihusaba/releases/tag/Files">Releases</a>に掲載（<a href="https://github.com/mizutama1233/haihusaba/releases/download/Files/u_proxy_tool_1.8.1.zip">u_proxy_tool_1.8.1.zip</a>）
+</details>
 
 ## Discord系
 <details>
@@ -83,7 +85,7 @@ http://clansamuraijapan.blog70.fc2.com/blog-entry-14.html
 - [AltAccounts](https://mcalts.net/)
 
 #### バージョン変更
-確か統合版 -> Releasesに掲載（MCLauncher）
+確か統合版 -> <a href="https://github.com/mizutama1233/haihusaba/releases/tag/Files">Releases</a>に掲載（<a href="https://github.com/mizutama1233/haihusaba/releases/download/Files/MCLauncher.zip">MCLauncher.zip</a>）
 </details>
 
 ## サイト系
@@ -239,12 +241,12 @@ http://clansamuraijapan.blog70.fc2.com/blog-entry-14.html
 <details>
 <summary>海外のメソッド</summary>
 
-Releasesに掲載（1080.methods2.txt）
+<a href="https://github.com/mizutama1233/haihusaba/releases/tag/Files">Releases</a>に掲載（<a href="https://github.com/mizutama1233/haihusaba/releases/download/Files/1080.methods2.txt">1080.methods2.txt</a>）
 </details>
 <details>
 <summary>日本のメソッド</summary>
 
-Releasesに掲載（methot.txt）
+<a href="https://github.com/mizutama1233/haihusaba/releases/tag/Files">Releases</a>に掲載（<a href="https://github.com/mizutama1233/haihusaba/releases/download/Files/methot.txt">methot.txt</a>）
 </details>
 <details>
 <summary>業者パック</summary>
