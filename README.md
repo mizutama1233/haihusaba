@@ -14,9 +14,16 @@
 ## For Boosters
 <details>サーバーをブーストすると専用チャンネルを見ることができます</details>
 
-## ProxyScraper
+## ツール系
 <details>
+<summary>ProxyScraper</summary>
+
 <a href="https://github.com/mizutama1233/haihusaba/releases/tag/Files">Releases</a>に掲載（<a href="https://github.com/mizutama1233/haihusaba/releases/download/Files/u_proxy_tool_1.8.1.zip">u_proxy_tool_1.8.1.zip</a>）
+</details>
+<details>
+<summary>301ViewPumper</summary>
+
+<a href="https://github.com/mizutama1233/haihusaba/releases/tag/Files">Releases</a>に掲載（<a href="https://github.com/mizutama1233/haihusaba/releases/download/Files/301ViewPumper.zip">301ViewPumper.zip</a>）
 </details>
 
 ## Discord系
@@ -47,7 +54,7 @@
 
 他にもありますが、以下のURLサンプルはdiscord上でクリックしてもリダイレクトされない方法です
 
-#### wick, vortex, dyno
+#### wick, vortex, dyno, arcane
 `https://discord.gg\tokky`
 
 #### Probot（検知される場合あり）
