@@ -58,7 +58,10 @@
 `https://discord.gg\tokky`
 
 #### Probot（検知される場合あり）
-`https://dicord.com\.\invite\tokky`
+`https://discord.com\.\invite\tokky`
+
+#### URLチェッカー
+`https://discord.com/invite/tokky`
 </details>
 
 ## ゲーム系
