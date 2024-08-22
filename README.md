@@ -6,7 +6,7 @@
 
 **掲載されている内容は全て教育目的であり、自己責任です。**
 
-最終更新日：2024/08/19
+最終更新日：2024/08/22
 
 [サーバーに参加する](https://discord.gg/tokky)
 
@@ -202,6 +202,7 @@ http://clansamuraijapan.blog70.fc2.com/blog-entry-14.html
 
 #### テレビ
 - [9tsu.vip](https://9tsu.vip/)
+- [スポーツ](https://scorevisit.com/)
 
 #### 漫画
 - [mangakakalot.to](https://mangakakalot.to/)
