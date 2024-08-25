@@ -58,6 +58,7 @@
 
 #### 未検証だけどほぼ確でいける
 `https://ｄｉｓｃｏｒｄ．ｇｇ/tokky`
+`https://𝑑𝓲𝘴𝐜𝑜𝕣ᵈ.gg/tokky`
 
 #### wick, vortex, dyno, arcane
 `https://discord.gg\tokky`
