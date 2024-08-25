@@ -6,7 +6,7 @@
 
 **掲載されている内容は全て教育目的であり、自己責任です。**
 
-最終更新日：2024/08/22
+最終更新日：2024/08/25
 
 [サーバーに参加する](https://discord.gg/tokky)
 
@@ -55,6 +55,9 @@
 <summary>ブロック回避</summary>
 
 他にもありますが、以下のURLサンプルはdiscord上でクリックしてもリダイレクトされない方法です
+
+#### 未検証だけどほぼ確でいける
+`https://ｄｉｓｃｏｒｄ．ｇｇ/tokky`
 
 #### wick, vortex, dyno, arcane
 `https://discord.gg\tokky`
