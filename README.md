@@ -2,7 +2,6 @@
 配布内容の一部はgithubに移行しました。
 随時更新してます
 
-25/06/22
 
 ![:tokky_haihu](https://count.getloli.com/@:tokky_haihu)
 
